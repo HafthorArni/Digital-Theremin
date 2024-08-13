@@ -1,0 +1,12 @@
+int cMajor[8] = {60, 62, 64, 65, 67, 69, 71, 72}; // C D E F G A B C
+int cNaturalMinor[8] = {60, 62, 63, 65, 67, 68, 70, 72}; // C D Eb F G Ab Bb C
+int cHarmonicMinor[8] = {60, 62, 63, 65, 67, 68, 71, 72}; // C D Eb F G Ab B C
+int cMelodicMinorAsc[8] = {60, 62, 63, 65, 67, 69, 71, 72}; // C D Eb F G A B C
+int cMelodicMinorDesc[8] = {60, 62, 63, 65, 67, 68, 70, 72}; // C D Eb F G Ab Bb C
+int cDorian[8] = {60, 62, 63, 65, 67, 69, 70, 72}; // C D Eb F G A Bb C
+int cMixolydian[8] = {60, 62, 64, 65, 67, 69, 70, 72}; // C D E F G A Bb C
+int cPhrygian[8] = {60, 61, 63, 65, 67, 68, 70, 72}; // C Db Eb F G Ab Bb C
+int cLydian[8] = {60, 62, 64, 66, 67, 69, 71, 72}; // C D E F# G A B C
+int cLocrian[8] = {60, 61, 63, 65, 66, 68, 70, 72}; // C Db Eb F Gb Ab Bb C
+int cMajorPentatonic[8] = {60, 60, 62, 64, 67, 69, 72, 72}; // C D E G A C
+int cMinorPentatonic[8] = {60, 60, 63, 65, 67, 70, 72, 72}; // C Eb F G Bb C
